@@ -5,7 +5,7 @@ error_reporting(E_ALL);
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>ДЗ к занятию 12 PHP</title>
+    <title>ДЗ к занятию 4.1 PHP</title>
     <style>
         table {
             margin-top: 20px;
