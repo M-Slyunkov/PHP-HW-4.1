@@ -29,8 +29,8 @@ error_reporting(E_ALL);
 <?php
 
 $servername = "localhost";
-$username = "mysql";
-$password = "mysql";
+$username = "mslyunkov";
+$password = "neto1520";
 
 $pdo = new PDO("mysql:host=$servername;dbname=global;charset=UTF8", $username, $password);
 if (!$pdo)
